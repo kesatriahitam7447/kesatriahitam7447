@@ -1,7 +1,7 @@
 ## Black Kamen Rider
 
  <div style="display: flex; justify-content: center;">
- <div><b>Languages:</b></div>
+ <h3><b>Languages</b></h3>
  <br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,7 +13,7 @@
 <br>
 
 <div style="display: flex; justify-content: center;">
- <div><b>Framework:</b></div>
+ <h3><b>Framework</b></h3>
 <br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
